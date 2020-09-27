@@ -25,7 +25,11 @@
 ## 工程相关
 - [**Webpack**](https://github.com/webpack/webpack) 前端打包、构建。
 - [**Snowpack**](https://github.com/pikapkg/snowpack) ESM打包、构建。
+
 ## 工具
+- [**envinfo**](https://github.com/tabrindle/envinfo) envinfo generates a report of the common details needed when troubleshooting software issues, such as your operating system, binary versions, browsers, installed languages, and more.
+- [**dotenv**](https://github.com/motdotla/dotenv) Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env. 
+- [**dotenv-expand**](https://www.npmjs.com/package/dotenv-expand) Dotenv-expand adds variable expansion on top of dotenv.
 
 # 网站和文章
 **这里主要汇总一下自己平时看到的文章分享等**
