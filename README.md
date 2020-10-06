@@ -30,6 +30,9 @@
 - [**envinfo**](https://github.com/tabrindle/envinfo) envinfo generates a report of the common details needed when troubleshooting software issues, such as your operating system, binary versions, browsers, installed languages, and more.
 - [**dotenv**](https://github.com/motdotla/dotenv) Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env. 
 - [**dotenv-expand**](https://www.npmjs.com/package/dotenv-expand) Dotenv-expand adds variable expansion on top of dotenv.
+- [**Inquirer.js**](https://github.com/SBoudrias/Inquirer.js) A collection of common interactive command line user interfaces.
+- [**rimraf**](https://github.com/isaacs/rimraf) The UNIX command rm -rf for node.
+- [**node-semver**](https://github.com/npm/node-semver) The semantic versioner for npm.
 
 # 网站和文章
 **这里主要汇总一下自己平时看到的文章分享等**
